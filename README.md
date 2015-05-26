@@ -1,14 +1,5 @@
-# MyDB
+Rasing Twins
 
-
-https://scotch.io/tutorials/an-introduction-to-mongodb
-
-Overview of MongoDB
-
-Unknowns about Mongo not taught in class
-
-Who uses it
-
-Mongo in detail
-
-
+*How to change a diaper while the other one screams
+*get two babies out of the crib
+*feed two babies at once
